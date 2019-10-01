@@ -1,0 +1,301 @@
+﻿SalesPerson,Date,City,ProductName,NumberOfUnits,UnitPrice,AmountOfSale
+William Fox,2014/1/9,Beijing,Banana,263,51.37189727,13413
+Jay Calvin,2014/1/16,Tokyo,Banana,117,40.34397907,4680
+Lisa Andrews,2014/1/17,Tokyo,Apple,211,12.37498262,2532
+Lisa Andrews,2014/1/20,Shanghai,Banana,14,2.14399132,28
+Lisa Andrews,2014/1/21,Tokyo,Apple,114,65.53051507,7410
+Lisa Andrews,2014/1/27,New York,Orage,413,12.46970283,4956
+Chris Meyer,2014/2/3,Singapore,Apple,369,34.14490886,12546
+Jay Calvin,2014/2/4,New York,Banana,106,30.27903886,3180
+William Fox,2014/2/12,Tokyo,Banana,105,3.048170359,315
+Walter Harp,2014/2/25,Tokyo,Apple,58,85.16708393,4930
+William Fox,2014/2/26,Seoul,Grape,300,68.88203419,20400
+Jessica Oxley,2014/3/8,Shanghai,Apple,53,88.40556563,4664
+Misty Shock,2014/3/10,Seoul,Banana,314,94.63286292,29516
+Walter Harp,2014/3/15,New York,Apple,196,82.50173376,16072
+Chris Meyer,2014/3/15,New York,Grape,232,75.79405358,17400
+Ellen Adams,2014/3/23,Beijing,Orage,312,39.11154281,12168
+Ellen Adams,2014/4/8,Singapore,Apple,409,64.11629318,26176
+Misty Shock,2014/4/13,New York,Banana,204,53.88210763,10812
+William Fox,2014/4/20,Singapore,Grape,136,98.22433805,13328
+Walter Harp,2014/5/8,Beijing,Banana,127,65.01173208,8255
+Jessica Oxley,2014/5/11,Tokyo,Orage,151,18.8232374,2718
+Walter Harp,2014/5/11,Tokyo,Banana,288,69.67803662,19872
+Chris Meyer,2014/5/11,Tokyo,Apple,216,21.83688861,4536
+Walter Harp,2014/5/20,Tokyo,Apple,207,72.13371763,14904
+Lisa Andrews,2014/6/3,Beijing,Banana,251,0.456432905,0
+Jessica Oxley,2014/6/11,Shanghai,Apple,48,98.57864259,4704
+Walter Harp,2014/6/11,Tokyo,Apple,74,35.78973968,2590
+Jessica Oxley,2014/6/23,Shanghai,Banana,280,99.45156579,27720
+William Fox,2014/6/26,New York,Grape,197,30.11554481,5910
+Chris Meyer,2014/7/4,Shanghai,Orage,397,35.98198883,13895
+Walter Harp,2014/8/19,Seoul,Apple,404,7.901483731,2828
+Lisa Andrews,2014/8/24,New York,Banana,242,94.62527893,22748
+Misty Shock,2014/9/2,Tokyo,Banana,274,49.29506753,13426
+William Fox,2014/9/15,New York,Banana,155,91.04274031,14105
+Misty Shock,2014/10/2,Tokyo,Banana,28,96.88017228,2688
+Jessica Oxley,2014/10/20,New York,Apple,356,61.91245739,21716
+Walter Harp,2014/10/22,Tokyo,Orage,370,92.80220307,34040
+Walter Harp,2014/11/16,Shanghai,Apple,245,64.37961383,15680
+Walter Harp,2015/1/2,New York,Apple,397,80.4726574,31760
+Ellen Adams,2015/1/4,Beijing,Orage,202,61.54092656,12322
+Jessica Oxley,2015/1/9,New York,Banana,287,56.78008332,16072
+Walter Harp,2015/1/15,New York,Grape,437,20.94860641,8740
+Lisa Andrews,2015/1/17,Tokyo,Orage,203,37.9749011,7511
+Walter Harp,2015/1/19,New York,Banana,440,72.4408402,31680
+Ellen Adams,2015/1/22,Beijing,Orage,258,53.40807999,13674
+Ellen Adams,2015/1/23,New York,Apple,211,57.19156454,12027
+Ellen Adams,2015/1/27,Beijing,Orage,152,5.573078806,760
+Jay Calvin,2015/2/1,New York,Grape,268,46.21502885,12328
+Jessica Oxley,2015/2/14,Tokyo,Banana,344,60.98832612,20640
+Jessica Oxley,2015/2/21,Beijing,Banana,472,58.87988394,27376
+Jessica Oxley,2015/2/24,Tokyo,Banana,382,51.62872973,19482
+William Fox,2015/3/1,Tokyo,Banana,309,95.35176423,29355
+Walter Harp,2015/3/5,Seoul,Grape,406,70.62897997,28420
+Chris Meyer,2015/3/10,Singapore,Grape,490,17.45201061,8330
+Misty Shock,2015/3/12,Shanghai,Grape,276,92.93901757,25392
+William Fox,2015/3/15,Tokyo,Apple,255,28.55085192,7140
+Jessica Oxley,2015/4/6,Tokyo,Orage,402,53.40426893,21306
+Jay Calvin,2015/4/7,Tokyo,Orage,76,51.85227797,3876
+Walter Harp,2015/4/10,Singapore,Grape,341,81.3679933,27621
+Jessica Oxley,2015/4/25,Tokyo,Orage,489,23.01489917,11247
+Jessica Oxley,2015/5/1,Beijing,Orage,188,26.08533657,4888
+Walter Harp,2015/5/5,Singapore,Banana,365,61.10440975,22265
+Lisa Andrews,2015/5/9,Singapore,Banana,134,75.13976012,10050
+William Fox,2015/5/20,Beijing,Grape,208,87.15010466,18096
+William Fox,2015/5/20,Singapore,Apple,325,13.96769207,4225
+Walter Harp,2015/6/16,Tokyo,Apple,5,36.77013541,180
+William Fox,2015/6/19,Shanghai,Apple,164,61.02457599,10004
+Jay Calvin,2015/6/27,Singapore,Banana,116,37.57717541,4292
+Walter Harp,2015/7/4,New York,Grape,432,47.92164822,20304
+Jessica Oxley,2015/7/7,New York,Orage,6,32.61919726,192
+Lisa Andrews,2015/7/9,Shanghai,Apple,56,97.02644814,5432
+Chris Meyer,2015/8/1,Seoul,Banana,379,26.57487957,9854
+Jessica Oxley,2015/8/4,Singapore,Grape,163,79.76445084,12877
+Jessica Oxley,2015/8/17,Shanghai,Apple,302,78.65439992,23556
+William Fox,2015/8/22,Singapore,Orage,421,74.9200316,31154
+Jessica Oxley,2015/8/24,Tokyo,Banana,177,52.24858134,9204
+Ellen Adams,2015/8/27,Seoul,Apple,157,60.79082892,9420
+Ellen Adams,2015/9/3,Seoul,Apple,118,36.20745318,4248
+Lisa Andrews,2015/9/19,Seoul,Grape,11,49.05401261,539
+William Fox,2015/9/20,Tokyo,Banana,231,73.75686237,16863
+Misty Shock,2015/10/10,Tokyo,Apple,81,99.5659437,8019
+Jay Calvin,2015/10/11,Singapore,Apple,220,94.11028055,20680
+Misty Shock,2015/10/24,New York,Orage,323,78.05241527,25194
+Misty Shock,2015/10/26,Beijing,Grape,206,86.60250208,17716
+Lisa Andrews,2015/11/2,Singapore,Banana,7,5.574384707,35
+Ellen Adams,2015/11/4,Shanghai,Orage,192,30.24323463,5760
+William Fox,2015/11/11,Shanghai,Orage,489,92.72293443,44988
+Jay Calvin,2015/11/12,Seoul,Orage,106,57.52023028,6042
+Ellen Adams,2015/11/13,Shanghai,Banana,249,87.69196891,21663
+Jay Calvin,2015/11/27,Tokyo,Banana,437,87.94682193,38019
+Jay Calvin,2016/1/3,Beijing,Orage,311,76.02424509,23636
+Ellen Adams,2016/1/9,Singapore,Grape,337,61.85399078,20557
+Walter Harp,2016/1/19,Shanghai,Banana,100,83.55550453,8300
+Chris Meyer,2016/1/20,Beijing,Orage,92,41.74572101,3772
+Ellen Adams,2016/1/21,Beijing,Apple,83,97.22199724,8051
+Jessica Oxley,2016/2/12,Tokyo,Grape,416,75.21001556,31200
+Lisa Andrews,2016/2/19,Singapore,Apple,471,46.77190163,21666
+William Fox,2016/2/21,Beijing,Grape,269,39.84769696,10491
+Misty Shock,2016/3/8,Beijing,Orage,310,43.3324218,13330
+William Fox,2016/3/15,Tokyo,Grape,448,94.05439901,42112
+William Fox,2016/4/11,Tokyo,Apple,135,43.10823085,5805
+William Fox,2016/4/16,Beijing,Grape,97,36.21914696,3492
+Misty Shock,2016/4/17,Beijing,Apple,407,86.43274302,35002
+Chris Meyer,2016/4/20,Tokyo,Banana,485,85.02788687,41225
+Jay Calvin,2016/5/8,Singapore,Banana,17,49.48758616,833
+Jay Calvin,2016/5/17,New York,Apple,86,23.28339546,1978
+Jay Calvin,2016/5/18,Shanghai,Apple,250,78.20051316,19500
+William Fox,2016/5/18,Shanghai,Orage,114,43.18603428,4902
+Chris Meyer,2016/5/23,New York,Orage,427,42.23481689,17934
+Walter Harp,2016/5/27,Singapore,Banana,372,94.85930791,34968
+Lisa Andrews,2016/6/3,Singapore,Banana,348,20.31773306,6960
+William Fox,2016/6/4,Singapore,Grape,207,49.8671015,10143
+Jay Calvin,2016/6/9,Shanghai,Orage,439,9.037337689,3951
+Chris Meyer,2016/6/15,Tokyo,Apple,23,22.13941353,506
+Lisa Andrews,2016/6/16,New York,Grape,368,0.940138754,0
+Walter Harp,2016/6/20,Shanghai,Banana,257,71.42847542,18247
+Chris Meyer,2016/6/20,Singapore,Grape,121,13.76249204,1573
+Lisa Andrews,2016/6/22,Singapore,Grape,305,57.38093194,17385
+Ellen Adams,2016/7/1,Seoul,Banana,13,65.75640471,845
+Lisa Andrews,2016/7/1,Seoul,Grape,95,57.21202738,5415
+Jay Calvin,2016/7/2,Seoul,Apple,119,78.20615814,9282
+Jay Calvin,2016/7/2,Shanghai,Orage,364,95.24558112,34580
+Misty Shock,2016/7/4,Tokyo,Banana,135,68.86303754,9180
+Chris Meyer,2016/7/9,Seoul,Orage,426,70.31927894,29820
+Ellen Adams,2016/8/3,Tokyo,Banana,185,81.56217932,14985
+Walter Harp,2016/8/13,Seoul,Apple,309,71.85104474,21939
+Chris Meyer,2016/8/15,Singapore,Banana,400,60.29712942,24000
+Misty Shock,2016/8/27,New York,Orage,89,52.707213,4628
+Jay Calvin,2016/9/8,Seoul,Orage,247,65.85860744,16055
+Jessica Oxley,2016/9/10,Beijing,Orage,168,52.33438786,8736
+Jessica Oxley,2016/9/22,Shanghai,Orage,241,32.42153057,7712
+Jay Calvin,2016/9/22,Beijing,Banana,258,25.06723307,6450
+Jessica Oxley,2016/9/26,Seoul,Orage,163,63.10839065,10269
+William Fox,2016/10/3,Singapore,Orage,20,80.26164527,1600
+Jessica Oxley,2016/10/18,Beijing,Grape,279,98.14945958,27342
+Lisa Andrews,2016/10/24,Shanghai,Grape,71,96.55888299,6816
+Chris Meyer,2016/10/26,Beijing,Grape,484,78.71657395,37752
+Lisa Andrews,2016/11/3,Singapore,Orage,475,39.12919752,18525
+Walter Harp,2016/11/4,Beijing,Apple,411,63.96914295,25893
+Misty Shock,2016/11/14,Tokyo,Orage,136,77.58089629,10472
+William Fox,2016/11/14,Tokyo,Banana,92,88.09943492,8096
+Misty Shock,2016/11/20,Singapore,Apple,93,55.20819712,5115
+Ellen Adams,2016/11/23,Seoul,Grape,58,71.66360918,4118
+Lisa Andrews,2017/1/1,Seoul,Apple,132,98.03190399,12936
+Chris Meyer,2017/1/6,Seoul,Orage,407,5.547549299,2035
+Chris Meyer,2017/1/8,Beijing,Banana,311,11.91947763,3421
+Jay Calvin,2017/1/14,Tokyo,Orage,76,56.11747408,4256
+William Fox,2017/1/15,Singapore,Banana,150,78.11530115,11700
+Walter Harp,2017/2/11,Shanghai,Banana,448,33.8045295,14784
+Ellen Adams,2017/2/16,Beijing,Banana,296,81.78317551,23976
+William Fox,2017/2/18,Shanghai,Grape,436,75.28989142,32700
+Jessica Oxley,2017/2/20,Singapore,Apple,160,4.072177924,640
+William Fox,2017/2/27,New York,Orage,343,26.08073592,8918
+Walter Harp,2017/3/5,Shanghai,Grape,41,84.59279946,3444
+Lisa Andrews,2017/3/11,Shanghai,Grape,167,16.59850656,2672
+Misty Shock,2017/3/20,Shanghai,Apple,6,15.09197667,90
+Misty Shock,2017/4/4,Tokyo,Orage,362,77.08439942,27874
+Ellen Adams,2017/5/3,Tokyo,Grape,377,48.84457884,18096
+Ellen Adams,2017/5/13,Singapore,Orage,176,71.49476585,12496
+Jay Calvin,2017/5/14,Seoul,Orage,97,54.6494901,5238
+Ellen Adams,2017/5/16,Tokyo,Banana,125,81.09762696,10125
+Jessica Oxley,2017/5/27,Beijing,Banana,349,67.93829215,23383
+Jessica Oxley,2017/6/1,Seoul,Grape,286,95.98707058,27170
+Misty Shock,2017/6/4,Shanghai,Banana,27,16.89004601,432
+Ellen Adams,2017/6/9,Shanghai,Apple,464,31.24414237,14384
+Jessica Oxley,2017/6/14,New York,Grape,315,57.44001491,17955
+William Fox,2017/6/18,New York,Apple,356,3.179571593,1068
+Lisa Andrews,2017/6/20,New York,Orage,93,22.81589067,2046
+Walter Harp,2017/6/21,Tokyo,Grape,223,20.17882118,4460
+Walter Harp,2017/7/3,Beijing,Orage,369,80.18657862,29520
+Lisa Andrews,2017/7/8,Shanghai,Apple,380,27.41146815,10260
+Jay Calvin,2017/7/10,Shanghai,Grape,230,8.316016434,1840
+Lisa Andrews,2017/8/17,Seoul,Apple,13,16.010847,208
+William Fox,2017/8/26,Beijing,Banana,113,1.551979595,113
+Lisa Andrews,2017/9/1,Seoul,Grape,11,13.69759013,143
+Jay Calvin,2017/9/4,Beijing,Orage,462,54.23054404,24948
+William Fox,2017/9/4,Tokyo,Banana,75,90.16387169,6750
+William Fox,2017/9/12,Singapore,Banana,191,41.57893702,7831
+Misty Shock,2017/9/15,Singapore,Orage,46,24.82411867,1104
+Lisa Andrews,2017/9/15,Shanghai,Banana,334,51.40822108,17034
+Walter Harp,2017/10/1,Seoul,Orage,73,10.78299,730
+Jessica Oxley,2017/10/3,Singapore,Grape,384,42.36260361,16128
+Ellen Adams,2017/10/6,Tokyo,Banana,37,39.03397077,1443
+Ellen Adams,2017/10/11,Tokyo,Orage,244,74.32200884,18056
+William Fox,2017/10/13,Shanghai,Apple,163,48.90272554,7824
+Walter Harp,2017/10/14,New York,Orage,414,90.28440644,37260
+William Fox,2017/10/18,Tokyo,Apple,449,14.36307836,6286
+Misty Shock,2017/10/24,New York,Apple,230,76.03560373,17480
+Ellen Adams,2017/11/2,Beijing,Banana,261,75.71043776,19575
+Jessica Oxley,2017/11/8,Seoul,Apple,303,18.62236337,5454
+Jessica Oxley,2017/11/11,Seoul,Banana,149,29.97250391,4321
+William Fox,2017/11/18,Shanghai,Grape,382,50.72181916,19100
+Jay Calvin,2017/11/20,Singapore,Orage,168,73.58686946,12264
+Walter Harp,2017/11/23,Singapore,Orage,115,54.88105503,6210
+Jay Calvin,2017/11/25,Tokyo,Apple,111,35.99821131,3885
+Ellen Adams,2018/1/10,Shanghai,Orage,239,47.79907523,11233
+William Fox,2018/1/24,Beijing,Apple,422,63.04197724,26586
+Lisa Andrews,2018/1/26,Shanghai,Banana,396,72.83349292,28512
+Chris Meyer,2018/2/1,Shanghai,Apple,413,78.68490353,32214
+Chris Meyer,2018/2/2,Shanghai,Grape,37,87.14771778,3219
+Chris Meyer,2018/2/4,New York,Banana,129,95.09121906,12255
+Misty Shock,2018/2/5,Tokyo,Orage,371,16.73361669,5936
+Walter Harp,2018/2/11,Seoul,Banana,75,96.09853336,7200
+Jay Calvin,2018/2/19,Seoul,Grape,129,98.59545743,12642
+Ellen Adams,2018/2/26,Beijing,Orage,14,26.6423267,364
+Walter Harp,2018/3/3,New York,Apple,301,23.74021189,6923
+Jessica Oxley,2018/3/9,Beijing,Orage,169,62.13544033,10478
+Jessica Oxley,2018/3/14,Seoul,Orage,330,95.45670235,31350
+Jay Calvin,2018/3/17,Seoul,Grape,226,22.05960239,4972
+Lisa Andrews,2018/3/19,Seoul,Orage,491,99.61200291,48609
+Lisa Andrews,2018/4/3,Shanghai,Banana,263,23.88009323,6049
+Chris Meyer,2018/4/10,Shanghai,Orage,473,84.37059893,39732
+Jessica Oxley,2018/4/19,Singapore,Grape,54,86.92175745,4644
+Ellen Adams,2018/5/2,Shanghai,Orage,458,8.873658259,3664
+Walter Harp,2018/5/9,Singapore,Orage,336,5.861158858,1680
+William Fox,2018/5/23,Seoul,Apple,9,55.18430856,495
+William Fox,2018/5/26,Seoul,Grape,327,43.39125848,14061
+Ellen Adams,2018/6/2,Beijing,Grape,145,86.45480126,12470
+Ellen Adams,2018/6/4,Singapore,Orage,140,63.66177465,8820
+Chris Meyer,2018/6/7,Shanghai,Banana,38,59.59158324,2242
+Ellen Adams,2018/6/18,Beijing,Orage,373,0.962003414,0
+Jay Calvin,2018/6/19,New York,Banana,52,18.59125426,936
+William Fox,2018/6/24,New York,Banana,8,47.36286944,376
+Ellen Adams,2018/7/1,Tokyo,Grape,28,57.97569866,1596
+Jay Calvin,2018/7/25,Shanghai,Grape,419,3.921287881,1257
+Misty Shock,2018/8/3,Tokyo,Banana,31,4.655368861,124
+Jessica Oxley,2018/8/8,New York,Orage,370,10.52832534,3700
+Misty Shock,2018/8/17,Beijing,Apple,495,90.66105405,44550
+Jay Calvin,2018/8/17,Tokyo,Orage,380,69.21166348,26220
+Jay Calvin,2018/8/18,Seoul,Banana,338,64.76747546,21632
+William Fox,2018/8/21,Seoul,Banana,66,9.360427228,594
+Ellen Adams,2018/8/21,Tokyo,Grape,200,89.89297496,17800
+Lisa Andrews,2018/8/26,Tokyo,Banana,432,84.84844197,36288
+Misty Shock,2018/9/9,New York,Orage,57,96.62492284,5472
+Ellen Adams,2018/9/11,Seoul,Orage,201,1.73316151,201
+Jay Calvin,2018/9/16,Seoul,Orage,430,53.10415917,22790
+Jay Calvin,2018/9/16,Singapore,Grape,406,45.01220186,18270
+Lisa Andrews,2018/9/22,Beijing,Apple,140,0.674245041,0
+Misty Shock,2018/10/12,Tokyo,Banana,466,68.08318573,31688
+Ellen Adams,2018/10/15,Shanghai,Apple,315,66.11564391,20790
+Walter Harp,2018/10/19,Shanghai,Orage,248,9.241903391,2232
+Lisa Andrews,2018/10/24,Beijing,Apple,54,73.43686897,3942
+Jay Calvin,2018/10/26,Shanghai,Apple,6,27.60171333,162
+Ellen Adams,2018/10/26,New York,Banana,429,39.39555429,16731
+Misty Shock,2018/11/4,Singapore,Banana,442,74.70365561,32708
+Chris Meyer,2018/11/15,New York,Apple,26,35.60805886,910
+Ellen Adams,2019/1/8,Seoul,Orage,464,9.945799415,4176
+Jay Calvin,2019/1/9,New York,Apple,224,60.81606763,13440
+William Fox,2019/1/15,Seoul,Banana,316,88.81195965,27808
+Chris Meyer,2019/1/22,Seoul,Grape,251,25.91295379,6275
+Chris Meyer,2019/1/24,Seoul,Orage,450,14.77810983,6300
+Chris Meyer,2019/2/10,New York,Banana,291,15.90679549,4365
+Chris Meyer,2019/2/11,New York,Banana,149,18.19430893,2682
+Chris Meyer,2019/2/11,Seoul,Banana,302,66.12525627,19932
+Jessica Oxley,2019/2/14,New York,Orage,1,31.86102693,31
+Jessica Oxley,2019/2/21,Beijing,Grape,156,56.68944044,8736
+Jay Calvin,2019/2/22,Beijing,Banana,234,40.09923802,9360
+Jay Calvin,2019/2/23,New York,Grape,76,62.66766533,4712
+Walter Harp,2019/2/27,Beijing,Orage,280,46.40497311,12880
+Lisa Andrews,2019/3/6,Shanghai,Apple,10,24.55689191,240
+Lisa Andrews,2019/4/3,Seoul,Apple,246,42.60020118,10332
+Ellen Adams,2019/4/16,Tokyo,Apple,249,71.66264098,17679
+Jessica Oxley,2019/4/17,Singapore,Grape,110,20.41990139,2200
+William Fox,2019/4/23,Beijing,Grape,481,67.3652659,32227
+Walter Harp,2019/4/24,New York,Orage,431,49.44209072,21119
+Jessica Oxley,2019/4/26,New York,Orage,14,38.17258335,532
+Walter Harp,2019/5/5,Tokyo,Apple,461,39.33480663,17979
+William Fox,2019/5/6,Shanghai,Grape,281,41.01945895,11521
+Lisa Andrews,2019/5/9,Seoul,Orage,450,73.34444452,32850
+Lisa Andrews,2019/5/10,Seoul,Apple,87,13.59374035,1131
+Lisa Andrews,2019/5/11,New York,Grape,195,64.62438869,12480
+Jay Calvin,2019/5/13,Seoul,Banana,371,45.67626409,16695
+Jessica Oxley,2019/5/15,Shanghai,Apple,211,5.240212616,1055
+Ellen Adams,2019/5/17,Shanghai,Orage,98,72.74684448,7056
+Jay Calvin,2019/5/22,Shanghai,Grape,386,33.26562607,12738
+Chris Meyer,2019/6/2,New York,Apple,53,36.1423087,1908
+Lisa Andrews,2019/6/14,New York,Grape,477,46.15112522,21942
+Walter Harp,2019/6/14,Shanghai,Grape,310,68.12822552,21080
+William Fox,2019/6/16,Tokyo,Banana,354,48.50957387,16992
+William Fox,2019/6/16,Tokyo,Apple,185,46.7655814,8510
+William Fox,2019/6/18,Tokyo,Orage,163,88.13542807,14344
+Walter Harp,2019/6/21,Shanghai,Orage,457,55.13353681,25135
+Lisa Andrews,2019/6/21,New York,Orage,318,19.76129376,6042
+Jay Calvin,2019/6/23,Seoul,Banana,323,0.406148285,0
+Jay Calvin,2019/7/10,New York,Banana,398,83.27457424,33034
+Jay Calvin,2019/7/17,Singapore,Banana,221,27.5370448,5967
+Lisa Andrews,2019/7/22,Shanghai,Orage,98,5.221381507,490
+William Fox,2019/8/4,Singapore,Banana,207,41.24071046,8487
+Chris Meyer,2019/8/4,Seoul,Banana,110,3.274957837,330
+Chris Meyer,2019/8/6,Seoul,Orage,33,89.14313102,2937
+Chris Meyer,2019/8/8,Tokyo,Banana,429,5.497239393,2145
+Jessica Oxley,2019/8/14,Beijing,Apple,461,44.64293078,20284
+Jessica Oxley,2019/8/16,Tokyo,Grape,332,33.56255024,10956
+Lisa Andrews,2019/9/23,Beijing,Orage,432,63.85858723,27216
+Jay Calvin,2019/10/13,Tokyo,Banana,175,61.43363726,10675
+Misty Shock,2019/10/24,Shanghai,Apple,433,3.393731268,1299
+Misty Shock,2019/11/3,Shanghai,Banana,257,82.77352791,21074
+Ellen Adams,2019/11/9,Tokyo,Grape,132,43.01621227,5676
+Lisa Andrews,2019/11/12,Seoul,Grape,293,6.400884365,1758
+Walter Harp,2019/11/20,New York,Apple,56,84.58223263,4704
