@@ -2,8 +2,10 @@
 
 - Load in-memory data into Reveal dashboard
 - Load local Excel file into Reveal dashboard
-- Crate a new dashboard
-- Load a existing dashboard
+- Crate new dashboard
+- Save dashboard
+- Load existing dashboard
+- Export images
 - Access control / editing auth control
 
 ## How to install Reveal SDK
